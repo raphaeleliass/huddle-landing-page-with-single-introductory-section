@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply font-OpenSans font-OpenSans400 md:bg-desktop bg-mobile bg-top bg-no-repeat w-full md:bg-center md:bg-cover bg-primaryViolet  h-screen
+}
+
+.social-links {
+    @apply text-white hover:text-primarySoftMagenta transition-all text-3xl rounded-full
+}
