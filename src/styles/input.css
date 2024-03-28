@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-    @apply font-OpenSans font-OpenSans400 md:bg-desktop bg-mobile bg-top bg-no-repeat w-full md:bg-center md:bg-cover bg-primaryViolet  h-screen
+    @apply font-OpenSans font-OpenSans400 lg:bg-desktop bg-mobile bg-top bg-no-repeat w-full lg:bg-center lg:bg-cover bg-primaryViolet  h-screen
 }
 
 .social-links {
